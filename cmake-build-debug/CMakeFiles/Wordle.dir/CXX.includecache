@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Game.cpp
+Game.h
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Game.h
+
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Game.h
+Wordle.h
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Wordle.h
+
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Wordle.cpp
+Wordle.h
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Wordle.h
+
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Wordle.h
+iostream
+-
+fstream
+-
+string
+-
+stdio.h
+-
+windows.h
+-
+
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/main.cpp
+Game.h
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/Game.h
+

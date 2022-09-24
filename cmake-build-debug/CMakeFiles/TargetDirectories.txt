@@ -1,0 +1,3 @@
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/cmake-build-debug/CMakeFiles/Wordle.dir
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BBert/OneDrive - Gonzaga University/Documents/Gonzaga/Clubs+Random/CS_Projects_Fun/Wordle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
