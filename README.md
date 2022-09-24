@@ -1,2 +1,2 @@
-# GonzagaWordle
-An attempt to make a version of wordle that uses Gonzaga themed words
+# 10 Letter Wordle
+Version of wordle with 10 letters and 10 tries
